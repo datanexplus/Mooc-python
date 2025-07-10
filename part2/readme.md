@@ -105,14 +105,3 @@ else:                       # se ejecuta si no hubo break
 * El bloque `else` de un `while` se ejecuta sólo si el lazo termina **sin** `break`.
 
 ---
-
-> **Cómo usar esta chuleta**
->
-> 1. Copia el fragmento que se parezca a tu ejercicio.
-> 2. Ajusta nombres de variables y literales según el enunciado.
-> 3. Convierte la entrada (`int()`, `float()`) cuando sea necesario.
-> 4. Ejecuta, revisa el feedback automático y refina.
-
-```
-::contentReference[oaicite:0]{index=0}
-```
